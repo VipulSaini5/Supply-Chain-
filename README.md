@@ -94,4 +94,10 @@ As a newly joined data analyst on the team, I developed a Power BI dashboard to 
 This Power BI dashboard has equipped AtliQ Mart with actionable insights to quickly address service-level issues and improve delivery performance, ensuring smoother operations as the company prepares for its upcoming expansion.
 
 
+![SS 3](https://github.com/user-attachments/assets/e349379f-a50e-4509-8b68-3f369409c8d7)
+![SS 1](https://github.com/user-attachments/assets/f2553c40-635a-48de-826f-856771061ef0)
+![SS 2](https://github.com/user-attachments/assets/35ea7522-1954-4e18-b0c8-148690d4d13e)
+![SS 4](https://github.com/user-attachments/assets/73067b7f-49ff-4917-8188-b9271726b091)
+
+
 
