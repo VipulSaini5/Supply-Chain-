@@ -1,14 +1,47 @@
-Problem Statement
-AtliQ Mart is a growing FMCG manufacturer headquartered in Gujarat, India. It is currently operational in three cities Surat, Ahmedabad and Vadodara. They want to expand to other metros/Tier 1 cities in the next 2 years.
 
-AtliQ Mart is currently facing a problem where a few key customers did not extend their annual contracts due to service issues. It is speculated that some of the essential products were either not delivered on time or not delivered in full over a continued period, which could have resulted in bad customer service. Management wants to fix this issue before expanding to other cities and requested their supply chain analytics team to track the ’On time’ and ‘In Full’ delivery service level for all the customers daily basis so that they can respond swiftly to these issues.
+# 📦 *AtliQ Mart: Supply Chain Performance Dashboard*
 
-The Supply Chain team decided to use a standard approach to measure the service level in which they will measure ‘On-time delivery (OT) %’, ‘In-full delivery (IF) %’, and OnTime in full (OTIF) %’ of the customer orders daily basis against the target service level set for each customer.
+*Project Overview:*
 
-Task:  
-Peter Pandey is the data analyst in the supply chain team who joined AtliQ Mart recently. He has been briefed about the the task in the stakeholder business review meeting. Now imagine yourself as Peter Pandey and play the role of the new data analyst who is excited to build this dashboard and perform the following task:
+AtliQ Mart is a fast-growing FMCG manufacturer based in Gujarat, India, operating in three major cities: Surat, Ahmedabad, and Vadodara. As the company plans to expand to more Tier 1 cities over the next two years, it faces a critical challenge—some key customers have not renewed their annual contracts due to *service issues* like delayed or incomplete deliveries. 
 
-Create the metrics according to the metrics list.
-Create a dashboard according to the requirements provided by stakeholders in the business review meeting. You will be provided with the transcript of this business review meeting in comic form.
-Create relevant insights not provided in the metric list/stakeholder meeting.
+To address this, the management team tasked the Supply Chain Analytics department with daily tracking of service performance using three key metrics:
 
+- *🚚 On-Time Delivery (OT %)* 
+- *📦 In-Full Delivery (IF %)* 
+- *⚡ On-Time In-Full (OTIF %)*
+  
+As a newly joined data analyst on the team, I developed a Power BI dashboard to help monitor these metrics in real-time, enabling the company to respond quickly and enhance customer satisfaction.
+
+---
+
+## 📊 *Key Metrics Tracked:*
+- *On-Time Delivery %*: Measures how often deliveries are made within the promised time frame.
+- *In-Full Delivery %*: Tracks whether all ordered items were delivered completely.
+- *On-Time In-Full (OTIF %)*: Combines both timeliness and completeness of deliveries, a crucial metric for customer satisfaction.
+
+---
+
+## 🔍 *Key Learnings & Highlights*:
+
+- *🚀 Enhanced Understanding of Supply Chain Operations:* 
+  - Developed a deeper understanding of core supply chain KPIs and business terms, improving overall analytical approaches.
+
+- *💡 Power BI Mastery:* 
+  - Implemented dynamic *trend charts* and *visualizations* to track delivery performance over time.
+  - Used advanced features like *DAX functions* for date calculations, creating custom measures, and parameter-based filtering.
+
+- *🔎 Additional Insights:*
+  - Discovered critical insights beyond the core metrics, such as *Line Fill Rate* and *Volume Fill Rate*, further enhancing operational performance visibility.
+
+---
+
+### 📈 *Power BI Dashboard Features:*
+- *Real-time Monitoring:* Track daily service levels against target goals.
+- *Custom Visualizations:* Trend lines and performance indicators make it easy to spot issues early.
+- *Interactive Filters:* Explore data by city, product, or customer to drill down into specific areas of concern.
+
+---
+
+### 🚀 *Outcome*:
+This Power BI dashboard has equipped AtliQ Mart with actionable insights to quickly address service-level issues and improve delivery performance, ensuring smoother operations as the company prepares for its upcoming expansion.
